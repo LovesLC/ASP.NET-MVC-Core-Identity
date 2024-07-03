@@ -1,0 +1,7 @@
+c:\Users\backoffice\Desktop\ASP.NET-MVC-Core-Identity\obj\Debug\net7.0\LoginIdentity.csproj.AssemblyReference.cache
+c:\Users\backoffice\Desktop\ASP.NET-MVC-Core-Identity\obj\Debug\net7.0\LoginIdentity.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\backoffice\Desktop\ASP.NET-MVC-Core-Identity\obj\Debug\net7.0\LoginIdentity.AssemblyInfoInputs.cache
+c:\Users\backoffice\Desktop\ASP.NET-MVC-Core-Identity\obj\Debug\net7.0\LoginIdentity.AssemblyInfo.cs
+c:\Users\backoffice\Desktop\ASP.NET-MVC-Core-Identity\obj\Debug\net7.0\LoginIdentity.csproj.CoreCompileInputs.cache
+c:\Users\backoffice\Desktop\ASP.NET-MVC-Core-Identity\obj\Debug\net7.0\LoginIdentity.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\backoffice\Desktop\ASP.NET-MVC-Core-Identity\obj\Debug\net7.0\LoginIdentity.MvcApplicationPartsAssemblyInfo.cache
